@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'KGMA74', // Usually your GitHub org/user name.
+  projectName: 'docusaurus_example', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -43,9 +43,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+          editUrl: 'https://github.com/KGMA74/docusaurus_example/edit/main/',        },
         blog: {
           showReadingTime: true,
           feedOptions: {
